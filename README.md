@@ -40,13 +40,16 @@ Sample image Check for Null values in the categorical columns and the numeric co
 Analysis
 
 ![image](https://github.com/duwain/Project-2/assets/53176086/dcfe9144-1034-4806-a9c3-613a35f6b8d5)
+
 We can see from the graph above that the more driving experience the customer has, the less likely it will be for them to process a claim.
 
 ![image](https://github.com/duwain/Project-2/assets/53176086/dcd392a9-7bf1-488c-ad7f-3a739ad3822f)
+
 In the graph above we can see that the more annual mileage a customer has on his/her vehiche the more likely they will be to process a claim/loan.
 
 
 Model metrics Results for testing data on best performing model:
+
 ![image](https://github.com/duwain/Project-2/assets/53176086/9d498a2b-facc-4920-9a34-6d433857afa8)
 
 How will the model solve the business problem: The model will assist with identifying high risk customers (customers likely to process a claim). This information can be use to formulate a premium that will benefit the organisation and satify the customer's needs. 
