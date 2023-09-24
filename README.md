@@ -38,6 +38,7 @@ Methods Check for duplicate rows- Duplicate rows can impact the qaulity of your 
 Sample image Check for Null values in the categorical columns and the numeric columns. If any null values are found in the categorical columns we will replace it with the most occuring value If any null values are found in the numerical columns we will replace it with the mean vaule
 
 Analysis
+
 ![image](https://github.com/duwain/Project-2/assets/53176086/dcfe9144-1034-4806-a9c3-613a35f6b8d5)
 We can see from the graph above that the more driving experience the customer has, the less likely it will be for them to process a claim.
 
